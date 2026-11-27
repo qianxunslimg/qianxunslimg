@@ -68,12 +68,12 @@
   <circle cx="293" cy="96" r="4" fill="#34d399" class="spark"/>
   <text x="304" y="100" fill="#cbd5e1" font-size="11.5" font-weight="600" class="sans">Online · Lab</text>
 
-  <text x="32" y="138" fill="#e2e8f0" font-size="14.5" font-weight="500" class="sans">折腾一切有趣技术的开发者 · Code, AI &amp; Hardware Tinkerer</text>
+  <text x="32" y="138" fill="#e2e8f0" font-size="14.5" font-weight="500" class="sans">自动驾驶从业者 · Autonomous Driving · AI &amp; Hardware Tinkerer</text>
 
   <text x="32" y="168" fill="#34d399" font-size="12.5" class="mono">❯</text>
   <text x="48" y="168" fill="#94a3b8" font-size="12.5" class="mono">echo $MOTTO</text>
-  <text x="32" y="191" fill="#38bdf8" font-size="13" class="mono">"Make weird ideas work — from web apps to ARM64 pocket servers."</text>
-  <rect x="545" y="179" width="8" height="15" rx="1.5" fill="#38bdf8" class="cursor"/>
+  <text x="32" y="191" fill="#38bdf8" font-size="12.5" class="mono">"Autonomous driving by day, turning old phones into servers by night."</text>
+  <rect x="566" y="179" width="8" height="15" rx="1.5" fill="#38bdf8" class="cursor"/>
 
   <!-- Right cute cyber-cat peeking mascot (nod to profile avatar) -->
   <g transform="translate(658, 52)">

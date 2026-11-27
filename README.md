@@ -10,13 +10,14 @@
 
 ```yaml
 developer: qianxunslimg
+domain: Autonomous Driving (自动驾驶)
 focus:
-  - Full-Stack Web & Developer Tools (TypeScript / JavaScript / Python)
-  - AI Agents, Automation & Workflow Tinkering
-  - Linux Internals, Self-Hosting & Hardware Hacking (把旧手机改造成 ARM64 小主机)
-currently_building:
-  - phone-lab: "Root Android → 24h Ubuntu ARM64 Mini-Server + Browser Cloud Phone + eSIM SMS Forwarder"
-philosophy: "少写废话，多造顺手又好玩的工具"
+  - Autonomous Driving Engineering, Tooling & Visualization
+  - Full-Stack Web & DevTools (TypeScript / JavaScript / Python / C++)
+  - AI Agents, Linux Internals & Hardware Hacking
+off_duty:
+  - phone-lab: "Root Android → 24h Ubuntu ARM64 Mini-Server + Cloud Phone + eSIM SMS Forwarder"
+philosophy: "白天打磨自动驾驶与工具链，晚上折腾一切顺手又好玩的小玩意"
 ```
 
 ---
@@ -35,18 +36,20 @@ philosophy: "少写废话，多造顺手又好玩的工具"
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,py,react,nodejs,html,css,linux,android,docker,git,bash&theme=dark)](https://github.com/qianxunslimg)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,py,cpp,react,nodejs,linux,docker,git,bash,vscode,vite&theme=dark)](https://github.com/qianxunslimg)
 
 </div>
 
 ---
 
-### 🌌 3D Contribution Skyline
+### 🐍 Contribution Activity
 
 <div align="center">
-
-![GitHub profile 3D contribution graph](./profile-3d-contrib/profile-night-rainbow.svg)
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/qianxunslimg/qianxunslimg/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/qianxunslimg/qianxunslimg/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/qianxunslimg/qianxunslimg/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
 </div>
 
 ---
